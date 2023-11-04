@@ -2,10 +2,7 @@ Hello,
 
 <p align="center"> My name is Juan Aires and I love working with technology, I have worked as a full stack developer for over 3 years, developing web and mobile applications.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AironRader&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-AironRader.vercel.app/api/top-langs/?username=AironRader&show_icons=true&theme=radical&layout=compact" />
- </div>
+
  
  &nbsp;
  &nbsp;
