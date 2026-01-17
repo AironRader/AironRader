@@ -36,7 +36,7 @@ Hello,
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
 ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)&nbsp;
-[![UI e UX](https://img.shields.io/badge/ux?style=for-the-badge&logo=ux&logoColor=white)&nbsp;](https://img.shields.io/badge/UI/UX-FF44A0?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
+https://img.shields.io/badge/UI/UX-007BFF?style=for-the-badge&logo=sketch&logoColor=white
 
 
 #### Studying in this moment:
