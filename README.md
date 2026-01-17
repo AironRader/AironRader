@@ -74,6 +74,8 @@ Hello,
 <a href="https://www.linkedin.com/in/juan-jhonnatan-aires-rodrigues-3b212a144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://api.whatsapp.com/send?phone=5566996107040&text=Ol%C3%A1,%20Vi%20o%20seu%20perfil%20no%20GitHub%20e%20tenho%20interesse%20nos%20seus%20servi%C3%A7os." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"target="_blank"></a> 
 </div>&nbsp;&nbsp;
+
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/juanaires_89067)&nbsp;
  
 
   
